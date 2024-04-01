@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.Zs3VUgKAbG/lc438.h
+bits/stdc++.h
+-
+
+/tmp/tmp.Zs3VUgKAbG/main.cpp
+bits/stdc++.h
+-
+lc438.h
+/tmp/tmp.Zs3VUgKAbG/lc438.h
+

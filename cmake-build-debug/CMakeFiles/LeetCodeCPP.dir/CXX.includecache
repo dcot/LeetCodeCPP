@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.Zs3VUgKAbG/lc189.h
+vector
+-
+
+/tmp/tmp.Zs3VUgKAbG/main.cpp
+iostream
+-
+unordered_map
+-
+vector
+-
+lc189.h
+/tmp/tmp.Zs3VUgKAbG/lc189.h
+
